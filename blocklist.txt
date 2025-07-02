@@ -1,1 +1,6 @@
-
+live-media-fly.warnermediacdn.com
+crt.r2m02.amazontrust.com
+crt.rootca1.amazontrust.com
+play-fe.googleapis.com
+playstoregatewayadapter-pa.googleapis.com
+play-lh.googleusercontent.com
